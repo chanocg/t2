@@ -12,5 +12,6 @@ body {
 model-viewer {
   width: 2000;
   height: 1000;
+  transform=scale(2)
   background-color: transparent;
 }
