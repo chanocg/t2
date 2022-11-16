@@ -11,6 +11,6 @@ body {
 
 model-viewer {
   width: 100vw;
-  height: 90vh;
+  height: 100vh;
   background-color: transparent;
 }
