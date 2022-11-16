@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 1000;
+  margin: 0;
   padding: 0;
   width: 100vw;
   height: 100vh;
@@ -12,6 +12,5 @@ body {
 model-viewer {
   width: 100vw;
   height: 90vh;
-  content: width=device-width, initial-scale=1;
   background-color: transparent;
 }
